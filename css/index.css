@@ -1,0 +1,13 @@
+/* nanum-myeongjo-regular - latin_korean */
+@font-face {
+  font-family: 'Nanum-Myeongjo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/nanum-myeongjo-v15-latin_korean-regular.eot'); /* IE9 Compat Modes */
+  src: local('NanumMyeongjo'),
+       url('../fonts/nanum-myeongjo-v15-latin_korean-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/nanum-myeongjo-v15-latin_korean-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/nanum-myeongjo-v15-latin_korean-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/nanum-myeongjo-v15-latin_korean-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/nanum-myeongjo-v15-latin_korean-regular.svg#NanumMyeongjo') format('svg'); /* Legacy iOS */
+}
